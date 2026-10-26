@@ -1,0 +1,7 @@
+{
+  "name": "LPK Vokasi Nusantara - Lembaga Pelatihan Ketenagakerjaan Mitra Kemnaker RI",
+  "description": "Lembaga Pelatihan Kerja (LPK) dan Balai Vokasi resmi binaan Kementerian Ketenagakerjaan RI. Program pelatihan bersubsidi, sertifikasi BNSP, dan penyaluran kerja industri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
